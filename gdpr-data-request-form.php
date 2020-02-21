@@ -11,6 +11,7 @@
  * Description:       Use WordPress Core GDPR tools to build front-end Personal Data export/erasure forms (includes Widget, Gutenberg Block, Shortcode & Hooks).
  * Version:           1.4.2
  * Requires at least: 4.9.6
+ * Requires PHP:      5.6
  * Author:            audrasjb
  * Author URI:        https://jeanbaptisteaudras.com
  * License:           GPL-2.0+
